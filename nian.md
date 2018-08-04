@@ -1,7 +1,7 @@
 
 「首页」  
 长按左上角头像会显示 nian 的第一瞬间  
-![](https://github.com/WatsonYao/help/blob/master/image/device-2018-08-04-135845.png)   
+![](https://github.com/WatsonYao/help/blob/master/image/user_info.png)   
   
 首页可以左右滑动，右屏负责显示最近的 20 条进展。   
 ![](https://github.com/WatsonYao/help/blob/master/image/home_scroll.gif)
