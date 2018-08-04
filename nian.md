@@ -11,6 +11,8 @@
 「首页」记本  
 单击进入「记本详情页」，双击进入该记本的「进展发布页」，拖动可以排序。  
   
+![](https://github.com/WatsonYao/help/blob/master/image/double_click.gif)  
+  
 ![](https://github.com/WatsonYao/help/blob/master/image/home_dream_drag.gif)  
 
 「记本」  
