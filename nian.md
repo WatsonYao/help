@@ -4,7 +4,7 @@
 ![](https://github.com/WatsonYao/help/blob/master/image/device-2018-08-04-135845.png)   
   
 首页可以左右滑动，右屏负责显示最近的 20 条进展。   
-![](https://github.com/WatsonYao/help/blob/master/image/device-2018-08-04-home.gif)
+![](https://github.com/WatsonYao/help/blob/master/image/home_scroll.gif)
 
 「首页」记本  
 单击进入「记本详情页」，双击进入该记本的「进展发布页」，拖动可以排序。  
