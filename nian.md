@@ -1,13 +1,16 @@
 
 「首页」  
 长按左上角头像会显示 nian 的第一瞬间  
-![](https://github.com/WatsonYao/help/blob/master/image/user_info.png)   
   
-首页可以左右滑动，右屏负责显示最近的 20 条进展。   
+![](https://github.com/WatsonYao/help/blob/master/image/user_info.gif)   
+  
+首页可以左右滑动，右屏负责显示最近的 20 条进展。 
+    
 ![](https://github.com/WatsonYao/help/blob/master/image/home_scroll.gif)
 
 「首页」记本  
 单击进入「记本详情页」，双击进入该记本的「进展发布页」，拖动可以排序。  
+  
 ![](https://github.com/WatsonYao/help/blob/master/image/home_dream_drag.gif)  
 
 「记本」  
@@ -15,6 +18,7 @@
 
 「进展」  
 支持文本和多图(多图可以拖拽排序)，书写时会实时保存，永不丢失。以 YYYY-MM-DD 这种格式为开头的进展内容，列表页会显示成「倒计时 xx 天」「已过去 xx 天」。  
+  
 ![](https://github.com/WatsonYao/help/blob/master/image/timer.gif)  
 
 「制卡」
