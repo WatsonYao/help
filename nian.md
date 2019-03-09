@@ -81,7 +81,9 @@ A: 点击设置-资料-「备份/恢复/导出」，点击「恢复」，查看�
  
 Q: 要换新 Android 机了怎么办?  
 A: 在旧手机上生成备份文件，将该文件重命名为 nian_history.zip 后拷贝到新手机，通过nian的恢复功能即可实现数据转移。还有一个更直接的方式，将旧手机根目录下的 nian 文件夹通过一些方式直接拷贝到新手机的根目录，然后安装nian打开即可。
-  
+
+![](https://github.com/WatsonYao/help/blob/master/image/backup.jpg)
+
 Q: 只有 Android 版本吗?  
 A: 是的。
   
