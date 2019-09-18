@@ -5,7 +5,7 @@
   
 ![](https://github.com/WatsonYao/help/blob/master/image/user_info.gif)   
   
-首页可以左右滑动，右屏负责显示最近的 20 条进展。 
+首页可以左右滑动，右屏负责显示最近的 100 条进展。 
     
 ![](https://github.com/WatsonYao/help/blob/master/image/home_scroll.gif)
 
